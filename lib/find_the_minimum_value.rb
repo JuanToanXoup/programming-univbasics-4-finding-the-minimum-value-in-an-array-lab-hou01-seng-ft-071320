@@ -1,4 +1,4 @@
 def find_min_value(array)
-  array.min do
+  array.min
   end
 end
